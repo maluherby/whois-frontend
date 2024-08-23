@@ -1,5 +1,24 @@
 # React + Vite
 
+
+## Installation
+
+### Prerequisites
+
+- **Node.js** and **npm** (or **Yarn**)
+- **Git**
+- A working **Laravel** backend (or other compatible backend service)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-react-project.git
+cd your-react-project
+
+Install Dependencies
+npm install
+npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
