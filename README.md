@@ -12,8 +12,8 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-react-project.git
-cd your-react-project
+git clone https://github.com/your-username/whois-frontend.git
+cd whois-frontend
 
 Install Dependencies
 npm install
